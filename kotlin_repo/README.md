@@ -12,5 +12,5 @@
 
 ## 本项目地址
 
-- 仓库：https://github.com/tonydeng/gitbook-zh/tree/master/gitbook-howtouse
-- 在线阅读：http://tonydeng.github.io/gitbook-zh/gitbook-howtouse
+- 仓库：https://github.com/wangyuansxya/kotlin/tree/gh-pages
+- 在线阅读：https://wangyuansxya.github.io/kotlin/
